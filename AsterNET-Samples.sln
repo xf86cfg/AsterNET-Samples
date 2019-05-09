@@ -1,0 +1,130 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FastAGI-Samples", "FastAGI-Samples", "{706099CD-3681-431C-B765-EEBAEEBC656C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AMI-Samples", "AMI-Samples", "{AA484149-D245-43D8-9DF2-A085EFBB642D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9F9765D9-E92B-40F7-AAAE-77D4E199B52D}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReDialer", "ReDialer\ReDialer.csproj", "{D9FD6093-24D4-433F-89A4-AF765FEBD7EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebConf", "WebConf\WebConf.csproj", "{EFA1FB66-403B-45E1-B390-A691D4DED039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallMonitor", "CallMonitor\CallMonitor.csproj", "{21D896F9-A5C3-40B3-9E79-9BCD996A36F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Call Monitor", "Call Monitor", "{54E9D356-89C4-4AA5-A10E-B2F4CEBDC179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallMonitorWeb", "CallMonitorWeb\CallMonitorWeb.csproj", "{46E6DBE0-3186-4055-A07D-C6A08DC7E6AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallMonitorDAL", "CallMonitorDAL\CallMonitorDAL.csproj", "{5829A037-BD8D-4381-839A-CEF1FFCDD42C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CallingCard", "CallingCard", "{C810F2AA-8DE1-48F6-877B-AACCDB143C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallingCard", "CallingCard\CallingCard.csproj", "{309B55F0-7DCA-4A44-A0D1-A92523C0A99B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallingCardDAL", "CallingCardDAL\CallingCardDAL.csproj", "{FFE7F157-B2AA-4093-99F7-39C150E134FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Codeproject-Example", "Codeproject-Example", "{215AB5A3-C2D9-4293-9233-2509871655D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccCheckExample", "AccCodeExample\AccCheckExample.csproj", "{7D20B2E0-6763-40A4-809F-7437F2730AE4}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs10
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ReDialer\\ReDialer.csproj
+		SccProjectTopLevelParentUniqueName1 = AsterNET-Samples.sln
+		SccProjectName1 = ReDialer
+		SccLocalPath1 = ReDialer
+		SccProjectUniqueName2 = WebConf\\WebConf.csproj
+		SccProjectTopLevelParentUniqueName2 = AsterNET-Samples.sln
+		SccProjectName2 = WebConf
+		SccLocalPath2 = WebConf
+		SccProjectUniqueName3 = CallMonitor\\CallMonitor.csproj
+		SccProjectTopLevelParentUniqueName3 = AsterNET-Samples.sln
+		SccProjectName3 = CallMonitor
+		SccLocalPath3 = CallMonitor
+		SccProjectUniqueName4 = CallMonitorWeb\\CallMonitorWeb.csproj
+		SccProjectTopLevelParentUniqueName4 = AsterNET-Samples.sln
+		SccProjectName4 = CallMonitorWeb
+		SccLocalPath4 = CallMonitorWeb
+		SccProjectUniqueName5 = CallMonitorDAL\\CallMonitorDAL.csproj
+		SccProjectTopLevelParentUniqueName5 = AsterNET-Samples.sln
+		SccProjectName5 = CallMonitorDAL
+		SccLocalPath5 = CallMonitorDAL
+		SccProjectUniqueName6 = CallingCard\\CallingCard.csproj
+		SccProjectTopLevelParentUniqueName6 = AsterNET-Samples.sln
+		SccProjectName6 = CallingCard
+		SccLocalPath6 = CallingCard
+		SccProjectUniqueName7 = CallingCardDAL\\CallingCardDAL.csproj
+		SccProjectTopLevelParentUniqueName7 = AsterNET-Samples.sln
+		SccProjectName7 = CallingCardDAL
+		SccLocalPath7 = CallingCardDAL
+		SccProjectUniqueName8 = AccCodeExample\\AccCheckExample.csproj
+		SccProjectTopLevelParentUniqueName8 = AsterNET-Samples.sln
+		SccProjectName8 = AccCodeExample
+		SccLocalPath8 = AccCodeExample
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9FD6093-24D4-433F-89A4-AF765FEBD7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FD6093-24D4-433F-89A4-AF765FEBD7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FD6093-24D4-433F-89A4-AF765FEBD7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FD6093-24D4-433F-89A4-AF765FEBD7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA1FB66-403B-45E1-B390-A691D4DED039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA1FB66-403B-45E1-B390-A691D4DED039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA1FB66-403B-45E1-B390-A691D4DED039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA1FB66-403B-45E1-B390-A691D4DED039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D896F9-A5C3-40B3-9E79-9BCD996A36F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D896F9-A5C3-40B3-9E79-9BCD996A36F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D896F9-A5C3-40B3-9E79-9BCD996A36F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D896F9-A5C3-40B3-9E79-9BCD996A36F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E6DBE0-3186-4055-A07D-C6A08DC7E6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E6DBE0-3186-4055-A07D-C6A08DC7E6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E6DBE0-3186-4055-A07D-C6A08DC7E6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E6DBE0-3186-4055-A07D-C6A08DC7E6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5829A037-BD8D-4381-839A-CEF1FFCDD42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5829A037-BD8D-4381-839A-CEF1FFCDD42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5829A037-BD8D-4381-839A-CEF1FFCDD42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5829A037-BD8D-4381-839A-CEF1FFCDD42C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{309B55F0-7DCA-4A44-A0D1-A92523C0A99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309B55F0-7DCA-4A44-A0D1-A92523C0A99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309B55F0-7DCA-4A44-A0D1-A92523C0A99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309B55F0-7DCA-4A44-A0D1-A92523C0A99B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE7F157-B2AA-4093-99F7-39C150E134FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE7F157-B2AA-4093-99F7-39C150E134FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE7F157-B2AA-4093-99F7-39C150E134FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE7F157-B2AA-4093-99F7-39C150E134FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D20B2E0-6763-40A4-809F-7437F2730AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D20B2E0-6763-40A4-809F-7437F2730AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D20B2E0-6763-40A4-809F-7437F2730AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D20B2E0-6763-40A4-809F-7437F2730AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D9FD6093-24D4-433F-89A4-AF765FEBD7EE} = {706099CD-3681-431C-B765-EEBAEEBC656C}
+		{EFA1FB66-403B-45E1-B390-A691D4DED039} = {706099CD-3681-431C-B765-EEBAEEBC656C}
+		{54E9D356-89C4-4AA5-A10E-B2F4CEBDC179} = {706099CD-3681-431C-B765-EEBAEEBC656C}
+		{C810F2AA-8DE1-48F6-877B-AACCDB143C98} = {706099CD-3681-431C-B765-EEBAEEBC656C}
+		{215AB5A3-C2D9-4293-9233-2509871655D7} = {706099CD-3681-431C-B765-EEBAEEBC656C}
+		{21D896F9-A5C3-40B3-9E79-9BCD996A36F2} = {54E9D356-89C4-4AA5-A10E-B2F4CEBDC179}
+		{46E6DBE0-3186-4055-A07D-C6A08DC7E6AF} = {54E9D356-89C4-4AA5-A10E-B2F4CEBDC179}
+		{5829A037-BD8D-4381-839A-CEF1FFCDD42C} = {54E9D356-89C4-4AA5-A10E-B2F4CEBDC179}
+		{309B55F0-7DCA-4A44-A0D1-A92523C0A99B} = {C810F2AA-8DE1-48F6-877B-AACCDB143C98}
+		{FFE7F157-B2AA-4093-99F7-39C150E134FD} = {C810F2AA-8DE1-48F6-877B-AACCDB143C98}
+		{7D20B2E0-6763-40A4-809F-7437F2730AE4} = {215AB5A3-C2D9-4293-9233-2509871655D7}
+	EndGlobalSection
+EndGlobal

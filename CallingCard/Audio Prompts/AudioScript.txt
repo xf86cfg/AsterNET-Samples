@@ -1,0 +1,11 @@
+﻿ccard-thank-you-for-calling
+Thank you for calling The Calling Card Service
+
+ccard-sorry-not-found
+Sorry but we couldn't find that card number
+
+ccard-please-enter
+Please enter your calling number which is on the front of your calling card
+
+ccard-enter-telephone-number
+Please enter the telephone number you wish to call, followed by the hash key

@@ -1,0 +1,14 @@
+﻿acccheck-enter_your_acc_number
+Please enter your account number, followed by the hash key
+
+acccheck-your_balance_is
+Your balanace is
+
+acccheck-pounds
+Pounds
+
+acccheck-pence
+Pence
+
+acccheck-and
+And

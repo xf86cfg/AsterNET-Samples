@@ -1,0 +1,17 @@
+﻿webconf-please_enter_pin
+Please enter your CurrentConf PIN, followed by the pound or hash key.
+
+webconf-you-entered
+You entered
+
+webconf-is_this_correct
+If this is correct, please press 1. Otherwise please press 2.
+
+webconf-conf_not_found
+I'm sorry, but that CurrentConf PIn could not be found. 
+
+webconf-thank-you-for-calling
+Thank you for calling the conferencing service
+
+webconf-please_say_your_name
+After the tone, please say your name, followed by the pound or hash key.
